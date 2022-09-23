@@ -23,11 +23,11 @@
 
 ## 📱 Screenshots
 <div align="center">
-  <img src="screenshots/1.png" alt="">
-  <img src="screenshots/2.png" alt="">
-  <img src="screenshots/3.png" alt="">
-  <img src="screenshots/4.png" alt="">
-  <img src="screenshots/5.png" alt="">
+  <img src="https://imgur.com/NNArZyz.png" alt="">
+  <img src="https://imgur.com/NVHk9hV.png" alt="">
+  <img src="https://imgur.com/5YCJPoc.png" alt="">
+  <img src="https://imgur.com/l502FcU.png" alt="">
+  <img src="https://imgur.com/ppb4bdb.png" alt="">
 </div>
 <br>
 
