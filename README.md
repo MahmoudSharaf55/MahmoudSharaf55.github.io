@@ -7,9 +7,9 @@
     A simple and wonderful website to display my personal information, works, experiences, skills and awards.
     <br>
     <br>
-    <a href="https://github.com/MahmoudSharaf55/MahmoudSharaf55.github.io/issues/new">Have a bug</a>
+    <a href="https://github.com/MahmoudSharaf55/MahmoudSharaf55.github.io/issues/new" target="_blank">Have a bug</a>
     &nbsp~&nbsp
-    <a href="https://github.com/MahmoudSharaf55/MahmoudSharaf55.github.io/issues/new">Have a new feature</a>
+    <a href="https://github.com/MahmoudSharaf55/MahmoudSharaf55.github.io/issues/new" target="_blank">Have a new feature</a>
     <br>
 
 <div align="center">
@@ -58,4 +58,4 @@
 
 <br>
 
-> **Don't forget to send me your feedback on my portfolio website from <a href="https://sharaf.vercel.app/feedback">Here</a><br>Thanks ❤️**
+> **Don't forget to send me your feedback on my portfolio website from <a href="https://sharaf.vercel.app/feedback" target="_blank">Here</a><br>Thanks ❤️**
