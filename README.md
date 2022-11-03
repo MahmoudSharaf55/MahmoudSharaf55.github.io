@@ -62,4 +62,4 @@ This is the production version of the application. The source code is in a priva
 
 <br>
 
-> **Don't forget to send me your feedback on my portfolio website from <a href="https://sharaf.vercel.app/feedback" target="_blank">Here</a><br>Thanks ❤️**
+> **Don't forget to send me your feedback on my portfolio website from <a href="https://sharaf.vercel.app/home/feedback" target="_blank">Here</a><br>Thanks ❤️**
