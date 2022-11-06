@@ -58,7 +58,7 @@
 
 ## ℹ️ Notes
 
-This is the production version of the application. The source code is in a private repo.
+This is the production version of the application. The source code is in a private repo and will be available soon.
 
 <br>
 
